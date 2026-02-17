@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sumterplumbingco.com/sitemap.xml
